@@ -15,6 +15,8 @@ This project is an **Automated Fairness Audit Tool** designed to detect gender r
 - `data/Gender_StatsEXCEL.xlsx`: The primary dataset.
 - `deep_audit_report.png`: The visual output of the deep audit.
 - `requirements.txt`: Project dependencies.
+- ## 📊 Visualized Findings
+![Deep Audit Analysis](deep_audit_report.png)
 
 ## 🚀 How to Run
 1. Install dependencies:
